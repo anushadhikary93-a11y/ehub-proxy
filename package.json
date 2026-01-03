@@ -1,4 +1,6 @@
-{
+{"scripts": {
+  "start": "node server.js"
+}
   "name": "ehub-proxy",
   "version": "1.0.0",
   "main": "server.js",
